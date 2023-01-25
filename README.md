@@ -41,5 +41,3 @@
 -Created 2 VPN's (One in USA and one in a foreign country)
 -Ensure each VPN IP address was different
 -Tested forein VPN
-
-
